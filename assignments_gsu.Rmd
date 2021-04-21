@@ -8,7 +8,7 @@ Bayesian Data Analysis Global South (GSU) 2021
 You are free to use these assignments in self study and other courses
 (CC-BY-NC 4.0), but please do not publish complete answers online.
 
-If you are a student on this course, you are allowed to discuss assignments with your friends, but it is not allowed to copy solutions directly from other students or from internet. You can copy, e.g., plotting code from the course demos, but really try to solve the actual assignment problems with your own code and explanations.
+If you are a student on this course, you are allowed to discuss assignments with your friends, but it is not allowed to copy solutions directly from other students or from the internet. You can copy, e.g., plotting code from the course demos, but really try to solve the actual assignment problems with your own code and explanations.
 
 ## Weekly assignments
 
@@ -16,39 +16,39 @@ There are 9 weekly assignments. Assignments are linked from [the schedule](gsu20
 folder](https://github.com/avehtari/BDA_course_Aalto/tree/master/assignments). The deadline days for the assignments are given
 in [the course schedule](gsu2021.html#Schedule_2021).
 
-- There are chat channels **#assignment1** etc. you can ask questions about the assignments. Other students and TAs can answer these. There is no guaranteed response time. These channels are best for questions that are likely to have relatively simple answer.
+- There are chat channels **#assignment1** etc. you can ask questions about the assignments. Other students and TAs can answer these. There is no guaranteed response time. These channels are best for questions that are likely to have a relatively simple answer.
 - This course instance is volunteer based, but we try to organize some [TA sessions](#TA_sessions) for getting extra help. These sessions are useful if you think you need help that requires a bit more discussion. The questions are answered during the TA session time (if there are too many questions, they may be answered in the chat or next TA session).
 - You can use [R markdown template](https://github.com/avehtari/BDA_course_Aalto/tree/master/templates/) for the report. You can also use any other software, but please follow the outline and ideas in the template [also available as PDF](https://github.com/avehtari/BDA_course_Aalto/tree/master/templates/)
 - Students return their answers to
 [peergrade](https://www.peergrade.io) by the end of Friday (hand-in
-period). The deadlines are on Fridays 23:59. We can't accept late submissions due to the peergrading process.
+period). The deadlines are on Fridays at 23:59. We can't accept late submissions due to the peergrading process.
 - After this, each student reviews 3 random other students'
-answers and provides feedback via online rubric form in peergrade during Monday (actually the feedback opens on Saturday, but I recommend to take weekends off) to
-Wednesday 23:59 (peer grading period). By reviewing other report you will see the correct answers in the rubrics, see others answers, and learn more actively by providing feedback for others.
-- If you happen to get empty or almost empty report to review, check first if it is better when opened in external pdf reader. If the report is still empty or almost empty, mark the submission as problematic and you will get another report to review.
+answers and provides feedback via online rubric form in peergrade during Monday (actually the feedback opens on Saturday, but I recommend taking weekends off) to
+Wednesday 23:59 (peer grading period). By reviewing other reports you will see the correct answers in the rubrics, see others' answers, and learn more actively by providing feedback for others.
+- If you happen to get an empty or almost empty report to review, check first if it is better when opened in an external pdf reader. If the report is still empty or almost empty, mark the submission as problematic and you will get another report to review.
 - After peergrading, each student reflects on the feedback (reactions, e.g. not helpful/helpful).
 - If a student receives inappropriate feedback/grading or reaction, they may "flag" it
-for TAs to check from Wednesday to Sunday (flagging period). In this course instance there is no formal certificate for passing the course, so there is no need to flag lightly, but you can use flagging to report clear misbehavior and we can remove misbehaving students from the system.
-- Peergrade alerts: If you are worried that you forget the deadlines, you can set peergade to send you email when assignment opens for submission, 24 hours before assignment close for submission, assignment is open for reviewing, 24 hours before an assignment closes for reviewing if you haven't started yet, someone likes my feedback (once a day). Click your name -> User Settings to choose which alerts you want.
+for TAs to check from Wednesday to Sunday (flagging period). In this course instance, there is no formal certificate for passing the course, so there is no need to flag lightly, but you can use flagging to report clear misbehavior and we can remove misbehaving students from the system.
+- Peergrade alerts: If you are worried that you forget the deadlines, you can set peergade to send you an email when the assignment opens for submission, 24 hours before assignment close for submission, assignment is open for reviewing, 24 hours before an assignment closes for reviewing if you haven't started yet, someone likes my feedback (once a day). Click your name -> User Settings to choose which alerts you want.
 
 Report all results in a single, **anonymous** *.pdf -file and submit it in
 [peergrade](https://www.peergrade.io). Submitting empty or almost
 empty pdf files is not allowed. Include also any source code to the report
-(either in appendix or embedded in the answer). By anonymity it is meant
+(either in the appendix or embedded in the answer). By anonymity it is meant
 that the report should not contain your name or email. In
 addition to the correctness of the answers, the overall quality and
 clearness of the report is also evaluated.
 
-The assignments are mostly solved using computer (R or Python). Related
+The assignments are mostly solved using the computer (R or Python). Related
 demos for each assignment are available in the course web pages (links
-in Materials section). 
+in the Materials section). 
 
 Overall recommendation for many students is to include more text
-explanations as writing that text is active way of learning, and also
+explanations as writing that text is an active way of learning, and also
 it's easier to see if you have understood the concepts correctly. If
 you make minimal reports, you will also get minimal feedback and you
 learn less. The main purpose of the course is to learn, and learning
-is more effective if you do it in active and interactive way.
+is more effective if you do it in an active and interactive way.
 
 ## Peergrade
 
@@ -60,7 +60,7 @@ course starts.
 
 Peergading is called giving feedback in peergrade.io. The peergrading
 is guided by the rubric questions which are visible in peergrade and
-in the schedule. Giving feedback is good term as it is not meant to be
+in the schedule. Giving feedback is a good term as it is not meant to be
 just grading wrong vs. correct answers. Please provide also feedback
 on the presentation. Part of the course is practicing making data
 analysis reports. By providing feedback on the report presentation
@@ -83,7 +83,7 @@ assignment are allowed to give feedback to the answers submitted by others.
 After peer grading is over for an assignment, each submission receives a
 *submission score*. This score is between 0\% and 100\% depending on how
 well the peers evaluated the submission. This is mostly about the
-technical correcteness and small part about the presentation.
+technical correctness and in small part about the presentation.
 
 The numerical score for each criteria is normalised to be between 0\%
 and 100\%, where 0\% is given to the worst, and 100\% to the best
@@ -123,17 +123,17 @@ received. If no reactions have been given to the student's reviews, no
 feedback score is computed and it will simply show as "-".
 
 When you provide feedback, you can provide constructive and positive
-feedback n how to improve presentation or tell what is already very
+feedback n how to improve the presentation or tell what is already very
 good. By providing that kind of feedback you are more likely to
-receive higher feedback score.
+receive a higher feedback score.
 
 The following are reasons to react positively to feedback:
 
 - Reviewer giving you tips on how to improve the presentation of the report or specific answer.
 - Reviewer making the effort of finding and pointing out where your bug originates from.
 
-Be kind when reacting to to the feedback. If you didn't like the
-feedback, think first a moment, and then re-consider whether it was
+Be kind when reacting to the feedback. If you didn't like the
+feedback, think first for a moment and then re-consider whether it was
 just the wording that got you angry and maybe there is something
 useful in the feedback.
 
@@ -152,7 +152,7 @@ feedback. Do not spend a lot of time fighting over the grading of one question
 from one student. If you don't agree you can submit a flag or in extreme case
 contact the TAs. Also, keep in mind that in most of the cases, which
 we've seen, the students have been fighting for points which have less
-than a 1/1000 effect on the final score. Long fight over that is not
+than a 1/1000 effect on the final score. A long fight over that is not
 worth the time and energy.  If you get feedback which makes you angry, breath and wait a
 moment before unleashing your anger back. We ask you to honor the
 system and be polite to your peers.
@@ -162,8 +162,8 @@ system and be polite to your peers.
 You can get help for the assignments by asking in the course chat from other
 students or in TA sessions by asking TAs.
 
-- There are chat channels **#assignment1** etc. you can ask questions about the assignments. Other students and TAs can answer these. There is no guaranteed response time. These channels are best for questions that are likely to have relatively simple answer and thus are likely to be answered before the next TA session.
-- There are [TA sessions](#TA_sessions) for getting one-on-one help. These sessions are not obligatory. These sessions are useful if you think you need help that requires a bit more discussion. The questions are answered duirng the TA session time (if there are two many questions, they may be answered in the chat or next TA session).
+- There are chat channels **#assignment1** etc. you can ask questions about the assignments. Other students and TAs can answer these. There is no guaranteed response time. These channels are best for questions that are likely to have a relatively simple answer and thus are likely to be answered before the next TA session.
+- There are [TA sessions](#TA_sessions) for getting one-on-one help. These sessions are not obligatory. These sessions are useful if you think you need help that requires a bit more discussion. The questions are answered during the TA session time (if there are two many questions, they may be answered in the chat or next TA session).
 
 As this course instance is based on volunteer TAs we can't guarantee
 how many TA session we have each week. TA sessions will be announced
@@ -185,7 +185,7 @@ Once a TA is free and your question is the first request in the queue, a TA will
 - A TA will send you a direct message on Chat.
 - You will discuss through direct messages until your problem is solved, and then the TA will close the discussion and delete your help request.
 
-Please do not send direct messages to TAs without going through the above protocol. If you have follow-up questions later, please put a new request to the queue.
+Please do not send direct messages to TAs without going through the above protocol. If you have follow-up questions later, please put a new request in the queue.
 
 ### Getting help via Zoom
 
